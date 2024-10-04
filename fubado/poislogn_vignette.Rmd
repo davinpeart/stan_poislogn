@@ -1,0 +1,11 @@
+---
+title: "Bayesian Regression for Overdispersed Counts with ANOVA Designs"
+author: "Davin Peart"
+date: "2024-10-01"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
